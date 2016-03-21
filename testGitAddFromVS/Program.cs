@@ -10,8 +10,10 @@ namespace testGitAddFromVS
     {
         static void Main(string[] args)
         {
+            //this is branch B
             Console.WriteLine("Hello from Git Zonaid Desktop");
             Console.Read();
+            Console.WriteLine(200*800);
         }
     }
 }
