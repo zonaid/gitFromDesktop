@@ -10,6 +10,7 @@ namespace testGitAddFromVS
     {
         static void Main(string[] args)
         {
+            //this is frmo branch A
             Console.WriteLine("Hello from Git Zonaid Desktop");
             Console.Read();
         }
